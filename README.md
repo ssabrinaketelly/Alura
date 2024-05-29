@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🌷
 
-Meu nome Sabrina
+Meu nome é Sabrina
 
 • Estou estudando na Alura
 • Estou me desenvolvendo na linguagem JavaScript
